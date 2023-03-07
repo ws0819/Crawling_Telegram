@@ -1,0 +1,6 @@
+selenium==4.8.2
+webdriver-manager==3.8.5
+matplotlib==3.6.3
+pandas==1.5.3
+python-telegram-bot==13.12
+psycopg2-binary==2.9.5

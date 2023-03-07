@@ -1,0 +1,21 @@
+create table "test"."test"(
+Name text,
+Hscode text,
+Date text,
+Price_D text,
+Price_D_Early text,
+Price_D_Middle text,
+Price_D_Late text,
+Price_W text,
+Price_W_Ealry text,
+Price_W_Middle text,
+Price_W_Late text,
+Weight text,
+Weigth_Early text,
+Weight_Middle text,
+Weight_Late text,
+Price_D_Per_Weight text,
+Price_D_Per_Weight_Early text,
+Price_D_Per_Weight_Middle text,
+Price_D_Per_Weight_Late text
+);
