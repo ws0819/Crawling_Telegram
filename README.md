@@ -23,10 +23,9 @@
 # 
    - 수출입 데이터 그래프 텔레그램 전송 자동화 스크립트
    - 제작기간
-      - 2 ~ 3 주 소요
+      - 약 2주 소요
    - 서버 구축, DB, 스크립트 개발
       - 다른 업종의 직무와 협업
-   - 텔레그램에서 유명한 채널의 이미지를 본따 제작
    - 이후 버전은 협업자의 아이디어가 추가 (Doing)
 - URL : https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00401
 #
