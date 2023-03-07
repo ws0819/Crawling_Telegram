@@ -1,5 +1,9 @@
-# 수출입 데이터 그래프 제작 후 텔레그램 전송 자동화 스크립트
-# Directory
+# Crawling_Telegram (Base_Version)
+- Ubuntu 20.04 LTS
+- Python 3.8.10
+- PostgreSQL
+#
+- Directory
 ```bash
 ├──etc
 │   ├──test_table.txt
@@ -17,13 +21,15 @@
 ├──run.py
 ```
 # 
-- Ubuntu 20.04 LTS
-- Python 3.8.10
-- PostgreSQL
-
-# Crawling_Telegram (base_version)
+   - 수출입 데이터 그래프 텔레그램 전송 자동화 스크립트
+   - 제작기간
+      - 2 ~ 3 주 소요
+   - 서버 구축, DB, 스크립트 개발
+      - 다른 업종의 직무와 협업
+   - 텔레그램에서 유명한 채널의 이미지를 본따 제작
+   - 이후 버전은 협업자의 아이디어가 추가 (Doing)
 - URL : https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00401
-
+#
 1. lib/settings에 기본 설정
    - DB_INFO
       - ip,port 등 기본 정보 등재
@@ -61,5 +67,3 @@
       - 스크립트 실행 시 자동 생성
    - 그래프 생성시 한글깨짐 방지 font는 os마다 상이함
       - lib/make_data.py > 64번째줄 
-
-
