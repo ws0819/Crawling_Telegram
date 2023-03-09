@@ -33,6 +33,7 @@ def main():
         f.close()    
 
     db.cs.close()
+    crawling.driver.close()
 
 if __name__ == '__main__':
     args = sys.argv
